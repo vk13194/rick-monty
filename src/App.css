@@ -1,0 +1,12 @@
+h1{
+  text-align: center;
+}
+p{
+  text-align: justify;
+  font-family: 'Princess Sofia', cursive;
+  font-size: 30px;
+}
+.container{
+  display: flex;
+  justify-content: center;
+}
